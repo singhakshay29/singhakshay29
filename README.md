@@ -47,32 +47,3 @@
 </div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhakshay29&show_icons=true&locale=en&layout=compact" alt="singhakshay29" /></p>
-
-
-<h1 align="left">Hey 👋  I'm Akshay Singh</h1>
-
-###
-
-<p align="left">A Full Stack Web Developer</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🌱 I’m currently learning Database<br>📫 How to reach me akshay2898.as@gmail.com<br>⚡ Fun fact I think I am funny</p>
-
-###
-
-<h2 align="left">Connect with me:</h2>
-
-###
-
-<div align="left">
-  <img  height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img  height="40" alt="instagram logo"  />
-</div>
-
-###
