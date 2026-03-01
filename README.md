@@ -68,11 +68,32 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ---
 ### 🚀 Featured Project
 
+#### 🎨 Portfolio – Interactive Developer Portfolio
+A modern, animation-rich portfolio website featuring advanced UI transitions, 3D elements, and smooth real-time interactions. Built to demonstrate frontend performance optimization and motion design skills.
+
+🔗 **Live Demo:** [View Project](https://portfolio-ipxm.vercel.app/)
+
+🔗 **Code:**[GitHub Repository](https://github.com/singhakshay29/portfolio)
+
+#### 📄 LiveDocs – Real-Time Collaborative Document Editing
+A Google Docs–inspired collaborative editor with real-time synchronization, live cursor presence, and scalable architecture. Designed to handle concurrent users with seamless editing experience.
+
+🔗 **Live Demo:** [View Project](https://live-docs-cyan.vercel.app)
+
+🔗 **Code:**[GitHub Repository](https://github.com/singhakshay29/LiveDocs)
+
 #### 🛍 The Souled Store Clone
 React-based E-commerce application with product filtering, authentication, wishlist & cart management. Built with scalable UI architecture and optimized state handling.
 
 🔗 **Live Demo:** [View Project](https://the-soul-store.vercel.app)  
 🔗 **Code:** [GitHub Repository](https://github.com/singhakshay29/the_soul_store)
+
+####  🎵 Amazon Music Clone
+A fully functional music streaming UI clone with authentication, playlist creation, search functionality, and dynamic music player interface. Focused on reusable components and responsive design.
+
+🔗 **Live Demo:** [View Project](https://amazonmusic.vercel.app/)
+
+🔗 **Code:** [GitHub Repository](https://github.com/singhakshay29)
 
 ---
 
@@ -82,7 +103,6 @@ React-based E-commerce application with product filtering, authentication, wishl
 - Performance Optimization
 - Testing with Jest & React Testing Library
 - Scalable UI Architecture
-- DSA for Interviews
 
 ---
 
