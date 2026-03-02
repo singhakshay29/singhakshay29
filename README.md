@@ -97,6 +97,14 @@ A fully functional music streaming UI clone with authentication, playlist creati
 
 ---
 
+### 📊 GitHub Activity & Developer Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhakshay29&theme=github_dark" width="90%" alt="Profile Summary" />
+</p>
+
+---
+
 ### 🚀 Current Focus
 
 - Advanced React Patterns
@@ -105,5 +113,6 @@ A fully functional music streaming UI clone with authentication, playlist creati
 - Scalable UI Architecture
 
 ---
+
 
 ⭐ Always open to collaborating on impactful frontend projects!
