@@ -1,7 +1,5 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-
 <h1 align="center">Hi 👋, I'm Akshay Singh</h1>
-<h3 align="center">Frontend Developer | React • Next.js • Performance Focused UI Engineer</h3>
+<h3 align="center">Frontend Developer | React • Next.js • Full Stack & AI Enthusiast</h3>
 
 <img align="right" height="250" width="350"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -14,11 +12,13 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 👨‍💻 About Me
 
-- 🌱 Currently strengthening **React Query, Jest, and Next.js**
-- 🎯 Focused on building scalable, high-performance frontend applications
-- 💡 Strong in JavaScript fundamentals, performance optimization & UI architecture
-- 📫 Reach me at: **akshay2898.as@gmail.com**
-- ⚡ Fun fact: I can build complex UI systems, but still working on perfect coffee ☕
+* 💼 Frontend Developer with 2.5+ years of experience building scalable web applications
+* 🌱 Currently strengthening **React Query, Next.js, Testing, Docker, and AWS**
+* 🎯 Focused on building performant, accessible, and maintainable user interfaces
+* 🤖 Exploring AI-powered applications using LLMs and modern cloud infrastructure
+* 📫 Reach me at: **[akshay2898.as@gmail.com](mailto:akshay2898.as@gmail.com)**
+* ⚡ Passionate about solving real-world problems through technology
+
 
 ---
 
@@ -38,35 +38,36 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ### 🛠 Languages & Tools
 
 <div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=nextjs" height="40" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" />
-<img width="12" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,docker,aws,git,jest" />
 <img src="https://tanstack.com/favicon.ico" height="40" alt="react query" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" />
-<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" />
-<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
 
 </div>
 
 ---
 ### 🚀 Featured Project
+
+#### 🤖 ResumeAnalyzer AI
+
+An AI-powered interview preparation platform that analyzes resumes, job descriptions, and candidate profiles to generate personalized interview reports.
+
+##### Features
+
+* Resume Upload & Analysis
+* Match Score Calculation
+* Technical Interview Questions
+* Behavioral Interview Questions
+* Skill Gap Detection
+* Personalized Preparation Plan
+
+##### Tech Stack
+
+React • Vite • Axios • Sass • Express.js • MongoDB • Mongoose • Gemini AI • Docker
+
+🔗 **Live Demo:** [View Project](https://resume-analyzer-ai-lime-nine.vercel.app/login)
+
+🔗 **Code:**[GitHub Repository](https://github.com/singhakshay29/resumeAnalyzerAi)
 
 #### 🎨 Portfolio – Interactive Developer Portfolio
 A modern, animation-rich portfolio website featuring advanced UI transitions, 3D elements, and smooth real-time interactions. Built to demonstrate frontend performance optimization and motion design skills.
@@ -107,12 +108,30 @@ A fully functional music streaming UI clone with authentication, playlist creati
 
 ### 🚀 Current Focus
 
-- Advanced React Patterns
-- Performance Optimization
-- Testing with Jest & React Testing Library
-- Scalable UI Architecture
+* Advanced React Patterns
+* React Query
+* Next.js
+* Testing with Jest & React Testing Library
+* Docker & AWS
+* System Design for Frontend Engineers
+* AI-Powered Web Applications
 
 ---
 
+### 📚 Currently Learning
 
-⭐ Always open to collaborating on impactful frontend projects!
+* AWS Networking (VPC, Subnets, Load Balancers)
+* CI/CD Pipelines
+* Docker Compose
+* Advanced Performance Optimization
+* Backend Scalability Patterns
+
+---
+
+### 💡 Philosophy
+
+> Build solutions that are scalable, maintainable, and provide exceptional user experiences.
+
+---
+
+⭐ Open to Frontend Developer, React Developer, and Full Stack opportunities.
